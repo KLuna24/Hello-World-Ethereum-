@@ -1,2 +1,2 @@
-# Hello-World-Ethereum-
+# Hello World Ethereum
 Hello world program in solidity.
